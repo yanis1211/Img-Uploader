@@ -21,17 +21,16 @@ Image Uploader est une application web simple qui permet aux utilisateurs de té
 ## Installation et démarrage
 
 ### Prérequis
-- Node.js (version 14 ou supérieure)
 - npm (ou yarn) pour la gestion des dépendances
 
 ### Étapes pour installer le projet
 1. Clone le repository :
     ```bash
-    git clone https://ton-repository.git
+    git clone https://github.com/yanis1211/Img-Uploader.git
     ```
 2. Accède au dossier du projet :
     ```bash
-    cd ton-dossier
+    cd Img-uploader
     ```
 3. Installe les dépendances :
     ```bash
@@ -41,7 +40,7 @@ Image Uploader est une application web simple qui permet aux utilisateurs de té
     ```bash
     npm run serve
     ```
-5. L'application sera accessible à `http://localhost:8080`.
+5. L'application sera accessible à l'adresse indiquée dans la sortie du terminal (généralement sous la forme `http://localhost:<xxxx>`).
 
 ## Utilisation
 1. Télécharge une image en faisant glisser-déposer ou en sélectionnant un fichier via le bouton "Browse files".
